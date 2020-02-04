@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.610.0"
+    "asnyc": "0.0.1-security",
+    "aws-sdk": "^2.610.0",
+    "underscore": "^1.9.2"
   }
 }
